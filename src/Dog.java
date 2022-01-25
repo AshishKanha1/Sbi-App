@@ -10,4 +10,8 @@ public class Student {
         System.out.println("do it better way");
 
     }
+public int add(){
+return 2;
+}
+
 }
