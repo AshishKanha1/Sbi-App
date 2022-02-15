@@ -8,6 +8,7 @@ public class Student {
         System.out.println("i am main method in student class");
         System.out.println("do it");
         System.out.println("do it better way");
+System.out.println("do it better way");
 
     }
 }
