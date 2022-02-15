@@ -5,6 +5,5 @@ public class Date {
         System.out.println("i am main method in student class");
 
     }
- int i=10;
-    int x=20;
+
 }
