@@ -6,4 +6,5 @@ public class Date {
 
     }
  int i=10;
+    int x=20;
 }
